@@ -1,0 +1,11 @@
+Gem:
+  Material: EMERALD
+  DisplayName: '&a&l&nĐá phép thuật'
+  Lore:
+  - '&d&l&m------------------------' 
+  - '&eKéo và thả vào item để dùng'
+  - '&eCommand thực thi:'
+  - '%cmd%'
+  - '%group%'
+  - '&d&l&m------------------------'
+GroupLore: '&a&lDành cho '
